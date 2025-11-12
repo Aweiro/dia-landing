@@ -11,6 +11,12 @@ This project focuses on creating a clean, accessible, and visually appealing lay
 
 ---
 
+## 🎨 Design Reference
+
+[Figma Design – Air (formerly Dia)](https://www.figma.com/design/7qwsWggv9BAxMi2VPhBuPr/Air--formerly-Dia--?node-id=0-1&p=f&t=u0jKOWx8KRZRXbXe-0)
+
+---
+
 ## 🧰 Technologies Used
 
 - **HTML**  
